@@ -144,6 +144,23 @@ h2 {
     font-size: 30px;
 }
 
+.fun h3 {
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+.facts-2 {
+    margin-top: 50px;
+    text-align: center;
+    border: 3px solid rgb(179, 179, 111);
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.funf p {
+    margin-top: 10px;
+}
+
 
 
 
